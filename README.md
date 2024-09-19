@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about Data Industry
 - 🌱 I’m currently learning Data Analytics and python 
 - 💞️ I’m looking to collaborate on Data related projects where I can learn more.
-- 📫 Mail me at gauravmishra14.08gm@gmail.com
+- 📫 Mail me at gauravmishragm14.8@gmail.com
 
 
 <!---
